@@ -1,0 +1,16 @@
+{
+  "main.css": "/react-app/static/css/main.08736969.chunk.css",
+  "main.js": "/react-app/static/js/main.7815ceec.chunk.js",
+  "main.js.map": "/react-app/static/js/main.7815ceec.chunk.js.map",
+  "runtime~main.js": "/react-app/static/js/runtime~main.8ce05037.js",
+  "runtime~main.js.map": "/react-app/static/js/runtime~main.8ce05037.js.map",
+  "static/js/2.bdc9a5b0.chunk.js": "/react-app/static/js/2.bdc9a5b0.chunk.js",
+  "static/js/2.bdc9a5b0.chunk.js.map": "/react-app/static/js/2.bdc9a5b0.chunk.js.map",
+  "index.html": "/react-app/index.html",
+  "precache-manifest.176ce67213ca3f11d3401b291bc1e2d2.js": "/react-app/precache-manifest.176ce67213ca3f11d3401b291bc1e2d2.js",
+  "service-worker.js": "/react-app/service-worker.js",
+  "static/css/main.08736969.chunk.css.map": "/react-app/static/css/main.08736969.chunk.css.map",
+  "static/media/header1.jpg": "/react-app/static/media/header1.70e6670e.jpg",
+  "static/media/header2.jpg": "/react-app/static/media/header2.33eca35f.jpg",
+  "static/media/header3.jpg": "/react-app/static/media/header3.d9d36b65.jpg"
+}
