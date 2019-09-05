@@ -16,10 +16,6 @@ import "../styles/Footer.css";
                        <p>jesteś na <span>{props.match.params.page}</span></p>
                    )
                }/>
-
-                <Route path="/:page:idProduct" exact render={(props) => (
-                       <p>jesteś na <span>{props.match.params.idProduct}</span></p>
-               )}/>
            </div>
         );
     }

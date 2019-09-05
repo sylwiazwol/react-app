@@ -8,12 +8,6 @@ import img3 from '../images/header3.jpg';
 
 
 const Header = () => {
-
-    // const images = [img1, img2, img3];
-    // const index = Math.floor(Math.random() * 3) //losowy wybór obrazków
-
-    // const img = images[index] 
-    
     return (
        <>
        <Switch>
@@ -35,9 +29,6 @@ const Header = () => {
            )} /> 
            {/* pojawi sie obrazek, nawet jeśli wpiszemy zły adres url */}
         </Switch>
-
-{/* do constów na początku const Header */}
-        {/* <img src={img} alt="header" /> */}
        </>
     );
 }

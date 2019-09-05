@@ -10,7 +10,7 @@ const ProductPage = ({match}) => {
             <Product id={match.params.id}/>
             <Link to="/products">Powrót do listy produktów</Link>
         </>
-     ); //match - jedna z właściowści obiektu; można sprawdzic przez concole.log
+     ); //match - jedna z obiektów; można sprawdzic przez concole.log
 }
  
 export default ProductPage;
